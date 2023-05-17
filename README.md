@@ -1,8 +1,5 @@
 # Daniel Ferreira
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=7dferreira&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7dferreira&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I have experience with: :heavy_check_mark:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
